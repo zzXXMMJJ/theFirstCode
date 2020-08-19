@@ -1,0 +1,39 @@
+{
+"body":[
+	{
+	"index":0,
+	"coin":30,
+	"isCloth":false
+	},
+	{
+	"index":1,
+	"coin":50,
+	"isCloth":false
+	},
+	{
+	"index":2,
+	"coin":100,
+	"isCloth":false
+	},
+	{
+	"index":3,
+	"coin":150,
+	"isCloth":false
+	},
+	{
+	"index":4,
+	"coin":200,
+	"isCloth":false
+	},
+	{
+	"index":5,
+	"coin":250,
+	"isCloth":false
+	},
+	{
+	"index":6,
+	"coin":200,
+	"isCloth":true
+	}
+]
+}

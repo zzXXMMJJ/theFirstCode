@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "fea00407-28f6-459c-b39b-83021ceac506",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 277,
+  "height": 160,
+  "platformSettings": {},
+  "subMetas": {
+    "性感底": {
+      "ver": "1.0.4",
+      "uuid": "43ad4989-13d0-427f-838d-f4e9a995685d",
+      "rawTextureUuid": "fea00407-28f6-459c-b39b-83021ceac506",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 3,
+      "offsetY": 0,
+      "trimX": 6,
+      "trimY": 2,
+      "width": 271,
+      "height": 156,
+      "rawWidth": 277,
+      "rawHeight": 160,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

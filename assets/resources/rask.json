@@ -1,0 +1,52 @@
+	{
+			"body": [{
+					"index": 0,
+					"title": "完成每日签到",
+					"go": 0,
+					"state": false
+				},
+				{
+					"index": 1,
+					"title": "获得1件服饰",
+					"go": 1,
+					"state": false
+				},
+				{
+					"index": 2,
+					"title": "保存1套装扮",
+					"go": 2,
+					"state": false
+				},
+				{
+					"index": 3,
+					"title": "打开商城逛逛",
+					"go": 1,
+					"state": false
+				},
+				{
+					"index": 4,
+					"title": "观看1个广告",
+					"go": 3,
+					"state": false
+				},
+				{
+					"index": 5,
+					"title": "完成1次打分",
+					"go": 2,
+					"state": false
+				},
+				{
+					"index": 6,
+					"title": "打开衣橱逛逛",
+					"go": 4,
+					"state": false
+				},
+				{
+					"index": 7,
+					"title": "观看3个广告",
+					"go": 3,
+					"state": false
+				}
+
+			]
+		}

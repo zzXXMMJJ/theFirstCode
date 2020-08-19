@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "970fadca-23c8-490c-9785-d94eb3e8d61f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 116,
+  "height": 71,
+  "platformSettings": {},
+  "subMetas": {
+    "装扮-套装选中": {
+      "ver": "1.0.4",
+      "uuid": "29456005-c695-4917-9877-27619b9ed7cb",
+      "rawTextureUuid": "970fadca-23c8-490c-9785-d94eb3e8d61f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 114,
+      "height": 69,
+      "rawWidth": 116,
+      "rawHeight": 71,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

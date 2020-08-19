@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "7db85617-0560-44b9-9412-39172af74972",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 115,
+  "height": 107,
+  "platformSettings": {},
+  "subMetas": {
+    "性感下": {
+      "ver": "1.0.4",
+      "uuid": "1bf8ca90-5724-4966-862e-005b723c6f7b",
+      "rawTextureUuid": "7db85617-0560-44b9-9412-39172af74972",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0.5,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 113,
+      "height": 104,
+      "rawWidth": 115,
+      "rawHeight": 107,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "298d6ed3-2521-47d2-94b8-7a1a0a4e97d6",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 498,
+  "height": 148,
+  "platformSettings": {},
+  "subMetas": {
+    "看广告赢金币": {
+      "ver": "1.0.4",
+      "uuid": "a8acba9c-5f08-42d0-820a-52c2a52bf345",
+      "rawTextureUuid": "298d6ed3-2521-47d2-94b8-7a1a0a4e97d6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 498,
+      "height": 148,
+      "rawWidth": 498,
+      "rawHeight": 148,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
