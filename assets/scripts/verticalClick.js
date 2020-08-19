@@ -9,6 +9,12 @@ cc.Class({
 	// LIFE-CYCLE CALLBACKS:
 
 	onLoad() {
+
+
+
+
+
+
 		this.node.on(cc.Node.EventType.TOUCH_START, this.onTouchStart, this);
 		this.node.on(cc.Node.EventType.TOUCH_MOVE, this.onTouchMove, this);
 		this.node.on(cc.Node.EventType.TOUCH_END, this.onTouchEnd, this);
